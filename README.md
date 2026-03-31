@@ -1,4 +1,4 @@
-# ERP-like Recipe & Cost Management System  
+# Recipe & Cost Management System  
 
 ## 🔍 Overview  
 
